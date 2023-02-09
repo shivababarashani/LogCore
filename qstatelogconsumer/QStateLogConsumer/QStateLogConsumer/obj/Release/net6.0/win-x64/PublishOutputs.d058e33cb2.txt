@@ -1,0 +1,4 @@
+D:\Services\qstatelogconsumer\QStateLogConsumer\QStateLogConsumer\bin\Release\net6.0\publish\win-x64\appsettings.Development.json
+D:\Services\qstatelogconsumer\QStateLogConsumer\QStateLogConsumer\bin\Release\net6.0\publish\win-x64\appsettings.json
+D:\Services\qstatelogconsumer\QStateLogConsumer\QStateLogConsumer\bin\Release\net6.0\publish\win-x64\QStateLogConsumer.pdb
+D:\Services\qstatelogconsumer\QStateLogConsumer\QStateLogConsumer\bin\Release\net6.0\publish\win-x64\QStateLogConsumer.exe

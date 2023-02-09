@@ -1,0 +1,34 @@
+2023-01-31 22:49:33.566 -08:00 [INF] QRequestLogService is start at 1/31/2023 10:49:33 PM
+2023-01-31 22:49:34.538 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.593 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.632 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.654 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.674 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.694 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.716 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.742 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.763 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.783 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.804 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.824 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:34.845 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:49:42.060 -08:00 [INF] QRequestLogService is start at 1/31/2023 10:49:42 PM
+2023-01-31 22:51:09.276 -08:00 [INF] QRequestLogService is start at 1/31/2023 10:51:09 PM
+2023-01-31 22:52:03.634 -08:00 [INF] QRequestLogService is start at 1/31/2023 10:52:03 PM
+2023-01-31 22:53:34.963 -08:00 [INF] QRequestLogService is start at 1/31/2023 10:53:34 PM
+2023-01-31 22:58:32.093 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 22:59:18.718 -08:00 [INF] QRequestLogService is start at 1/31/2023 10:59:18 PM
+2023-01-31 23:33:16.211 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:33:16 PM
+2023-01-31 23:36:28.167 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:36:28 PM
+2023-01-31 23:36:55.163 -08:00 [ERR] One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7044))
+2023-01-31 23:37:01.064 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 23:37:12.308 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:37:12 PM
+2023-01-31 23:39:09.733 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:39:09 PM
+2023-01-31 23:40:01.738 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 23:41:50.640 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:41:50 PM
+2023-01-31 23:42:21.999 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:42:21 PM
+2023-01-31 23:42:38.441 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 23:43:02.524 -08:00 [ERR] Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2023-01-31 23:43:34.022 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:43:34 PM
+2023-01-31 23:54:59.989 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:54:59 PM
+2023-01-31 23:56:05.113 -08:00 [INF] QRequestLogService is start at 1/31/2023 11:56:05 PM

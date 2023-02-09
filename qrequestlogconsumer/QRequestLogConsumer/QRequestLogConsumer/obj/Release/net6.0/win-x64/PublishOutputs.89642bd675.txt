@@ -1,0 +1,4 @@
+D:\Services\qrequestlogconsumer\QRequestLogConsumer\QRequestLogConsumer\bin\Release\net6.0\publish\win-x64\appsettings.Development.json
+D:\Services\qrequestlogconsumer\QRequestLogConsumer\QRequestLogConsumer\bin\Release\net6.0\publish\win-x64\appsettings.json
+D:\Services\qrequestlogconsumer\QRequestLogConsumer\QRequestLogConsumer\bin\Release\net6.0\publish\win-x64\QRequestLogConsumer.pdb
+D:\Services\qrequestlogconsumer\QRequestLogConsumer\QRequestLogConsumer\bin\Release\net6.0\publish\win-x64\QRequestLogConsumer.exe

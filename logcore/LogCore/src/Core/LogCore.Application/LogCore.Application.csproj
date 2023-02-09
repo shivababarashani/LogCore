@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.12.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="6.1.0" />
+    <PackageReference Include="Serilog.Sinks.Async" Version="1.5.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+    <PackageReference Include="Serilog.Sinks.Map" Version="1.0.2" />
+    <PackageReference Include="Serilog.Sinks.RollingFileAlternate" Version="2.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\LogCore.Utility\LogCore.Utility.csproj" />
+    <ProjectReference Include="..\LogCore.Contract\LogCore.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

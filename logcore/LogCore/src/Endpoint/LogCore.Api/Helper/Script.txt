@@ -1,0 +1,38 @@
+﻿USE [LogCoreDb]
+GO
+SET IDENTITY_INSERT [dbo].[ProxyCompanies] ON 
+GO
+INSERT [dbo].[ProxyCompanies] ([Id], [Title], [Description]) VALUES (1, N'Dotin', N'سرویس های داتین')
+GO
+SET IDENTITY_INSERT [dbo].[ProxyCompanies] OFF
+GO
+SET IDENTITY_INSERT [dbo].[TransactionTypes] ON 
+GO
+INSERT [dbo].[TransactionTypes] ([Id], [Title], [Description], [ProxyCompanyId]) VALUES (1, N'GetCustomerInfo', N'جزئیات مشتری', 1)
+GO
+INSERT [dbo].[TransactionTypes] ([Id], [Title], [Description], [ProxyCompanyId]) VALUES (2, N'GetCustomerDepositslist', N'لیست حساب های مشتری بر اساس کد ملی', 1)
+GO
+INSERT [dbo].[TransactionTypes] ([Id], [Title], [Description], [ProxyCompanyId]) VALUES (3, N'GetAccountInfo', N'جزئیات حساب', 1)
+GO
+INSERT [dbo].[TransactionTypes] ([Id], [Title], [Description], [ProxyCompanyId]) VALUES (4, N'BlockDeposit', N'بلاک واریز', 1)
+GO
+INSERT [dbo].[TransactionTypes] ([Id], [Title], [Description], [ProxyCompanyId]) VALUES (5, N'BlockWithdraw', N'بلاک برداشت', 1)
+GO
+SET IDENTITY_INSERT [dbo].[TransactionTypes] OFF
+GO
+SET IDENTITY_INSERT [dbo].[ApplicationTypes] ON 
+GO
+INSERT [dbo].[ApplicationTypes] ([Id], [Title]) VALUES (1, N'AccountManagement')
+GO
+SET IDENTITY_INSERT [dbo].[ApplicationTypes] OFF
+GO
+SET IDENTITY_INSERT [dbo].[LogTypes] ON 
+GO
+INSERT [dbo].[LogTypes] ([Id], [Title]) VALUES (1, N'Debug')
+GO
+INSERT [dbo].[LogTypes] ([Id], [Title]) VALUES (2, N'Information')
+GO
+INSERT [dbo].[LogTypes] ([Id], [Title]) VALUES (3, N'Error')
+GO
+SET IDENTITY_INSERT [dbo].[LogTypes] OFF
+GO

@@ -1,0 +1,4 @@
+D:\Services\qactionlogconsumer\QActionLogConsumer\QActionLogConsumer\bin\Release\net6.0\publish\win-x64\appsettings.Development.json
+D:\Services\qactionlogconsumer\QActionLogConsumer\QActionLogConsumer\bin\Release\net6.0\publish\win-x64\appsettings.json
+D:\Services\qactionlogconsumer\QActionLogConsumer\QActionLogConsumer\bin\Release\net6.0\publish\win-x64\QActionLogConsumer.pdb
+D:\Services\qactionlogconsumer\QActionLogConsumer\QActionLogConsumer\bin\Release\net6.0\publish\win-x64\QActionLogConsumer.exe
